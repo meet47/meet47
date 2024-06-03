@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi, I'm **Meet**! A Data Scientist based in Toronto, Canada! Let's Talk Data!
+
+- 🤔 My interest falls in GenAI, NLP, Computer Vision and Statistical Modelling. 
+- 🔭 I’m currently working on Multimodal LLMs and Optimization of MLSys in Production.
+- 💬 Ask me about anything, I'd be more than happy to help you.
+- 📫 How to reach me: Drop an email at meetbardoliya28@gmail.com.
 
 <!--
 **meet47/meet47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
